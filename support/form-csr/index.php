@@ -4,26 +4,33 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="profile" href="https://gmpg.org/xfn/11">
-<!-- This site is optimized with the Yoast SEO plugin v16.2 - https://yoast.com/wordpress/plugins/seo/ --><title>株式会社マン・マシンインターフェース</title>
-<meta name="description" content="人（MAN）と機械（MACHINE）をつなぐかけはし（INTERFACE）になる。私たちは、社名の由来でもあるこの志を胸に、日々ソフトウェアの開発・改良に取り組んでいます。">
+<meta name="robots" content="noindex, nofollow">
+<!-- This site is optimized with the Yoast SEO plugin v16.2 - https://yoast.com/wordpress/plugins/seo/ --><title>お問い合わせ | 株式会社マン・マシンインターフェース</title>
+<meta name="description" content="こちらは「環境活動」についてのお問い合わせフォームです。">
 <meta property="og:locale" content="ja_JP">
-<meta property="og:type" content="website">
-<meta property="og:title" content="株式会社マン・マシンインターフェース">
-<meta property="og:description" content="人（MAN）と機械（MACHINE）をつなぐかけはし（INTERFACE）になる。私たちは、社名の由来でもあるこの志を胸に、日々ソフトウェアの開発・改良に取り組んでいます。">
-<meta property="og:url" content="https://www.mmi-sc.co.jp/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="お問い合わせ | 株式会社マン・マシンインターフェース">
+<meta property="og:description" content="こちらは「環境活動」についてのお問い合わせフォームです。">
+<meta property="og:url" content="https://www.mmi-sc.co.jp/support/form-csr">
 <meta property="og:site_name" content="株式会社マン・マシンインターフェース">
+<meta property="article:modified_time" content="2021-07-21T11:59:19+00:00">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.mmi-sc.co.jp/#website","url":"https://www.mmi-sc.co.jp/","name":"株式会社マン・マシンインターフェース","description":"人（MAN）と機械（MACHINE）をつなぐかけはし（INTERFACE）になる。私たちは、社名の由来でもあるこの志を胸に、日々ソフトウェアの開発・改良に取り組んでいます。","potentialAction":[{"@type":"SearchAction","target":"https://www.mmi-sc.co.jp/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ja"},{"@type":"CollectionPage","@id":"https://www.mmi-sc.co.jp/#webpage","url":"https://www.mmi-sc.co.jp/","name":"株式会社マン・マシンインターフェース","isPartOf":{"@id":"https://www.mmi-sc.co.jp/#website"},"description":"人（MAN）と機械（MACHINE）をつなぐかけはし（INTERFACE）になる。私たちは、社名の由来でもあるこの志を胸に、日々ソフトウェアの開発・改良に取り組んでいます。","breadcrumb":{"@id":"https://www.mmi-sc.co.jp/#breadcrumb"},"inLanguage":"ja","potentialAction":[{"@type":"ReadAction","target":["https://www.mmi-sc.co.jp/"]}]},{"@type":"BreadcrumbList","@id":"https://www.mmi-sc.co.jp/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.mmi-sc.co.jp/#webpage"}}]}]}</script><!-- / Yoast SEO plugin. --><link rel="dns-prefetch" href="//s.w.org">
+<meta name="twitter:label1" content="推定読書時間">
+<meta name="twitter:data1" content="1分">
+<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.mmi-sc.co.jp/#website","url":"https://www.mmi-sc.co.jp/","name":"株式会社マン・マシンインターフェース","description":"人（MAN）と機械（MACHINE）をつなぐかけはし（INTERFACE）になる。私たちは、社名の由来でもあるこの志を胸に、日々ソフトウェアの開発・改良に取り組んでいます。","potentialAction":[{"@type":"SearchAction","target":"https://www.mmi-sc.co.jp/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"ja"},{"@type":"WebPage","@id":"https://www.mmi-sc.co.jp/support/form-csr#webpage","url":"https://www.mmi-sc.co.jp/support/form-csr","name":"お問い合わせ | 株式会社マン・マシンインターフェース","isPartOf":{"@id":"https://www.mmi-sc.co.jp/#website"},"datePublished":"2021-06-08T08:02:54+00:00","dateModified":"2021-07-21T11:59:19+00:00","description":"こちらは「環境活動」についてのお問い合わせフォームです。","breadcrumb":{"@id":"https://www.mmi-sc.co.jp/support/form-csr#breadcrumb"},"inLanguage":"ja","potentialAction":[{"@type":"ReadAction","target":["https://www.mmi-sc.co.jp/support/form-csr"]}]},{"@type":"BreadcrumbList","@id":"https://www.mmi-sc.co.jp/support/form-csr#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.mmi-sc.co.jp/","url":"https://www.mmi-sc.co.jp/","name":"トップ"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.mmi-sc.co.jp/support","url":"https://www.mmi-sc.co.jp/support","name":"お問い合わせ"}},{"@type":"ListItem","position":3,"item":{"@id":"https://www.mmi-sc.co.jp/support/form-csr#webpage"}}]}]}</script><!-- / Yoast SEO plugin. --><link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="株式会社マン・マシンインターフェース &raquo; フィード" href="https://www.mmi-sc.co.jp/feed">
 <link rel="alternate" type="application/rss+xml" title="株式会社マン・マシンインターフェース &raquo; コメントフィード" href="https://www.mmi-sc.co.jp/comments/feed">
 <link rel="stylesheet" id="wp-block-library-css" href="https://www.mmi-sc.co.jp/wp-includes/css/dist/block-library/style.min.css?ver=5.8" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="https://www.mmi-sc.co.jp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4.1" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-confirm-css" href="https://www.mmi-sc.co.jp/wp-content/plugins/contact-form-7-add-confirm/includes/css/styles.css?ver=5.1" type="text/css" media="all">
 <link rel="stylesheet" id="rnworks-style-css" href="https://www.mmi-sc.co.jp/wp-content/themes/mmi/style.css?ver=5.8" type="text/css" media="all">
-<script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script><link rel="https://api.w.org/" href="https://www.mmi-sc.co.jp/wp-json/">
+<link rel="https://api.w.org/" href="https://www.mmi-sc.co.jp/wp-json/">
+<link rel="alternate" type="application/json" href="https://www.mmi-sc.co.jp/wp-json/wp/v2/pages/1053">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.mmi-sc.co.jp/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.mmi-sc.co.jp/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 5.8">
+<link rel="shortlink" href="https://www.mmi-sc.co.jp/?p=1053">
+<link rel="alternate" type="application/json+oembed" href="https://www.mmi-sc.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhttps://www.mmi-sc.co.jp%2Fsupport%2Fform-csr">
+<link rel="alternate" type="text/xml+oembed" href="https://www.mmi-sc.co.jp/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhttps://www.mmi-sc.co.jp%2Fsupport%2Fform-csr&#038;format=xml">
+<style type="text/css"></style>
 <style type="text/css">.site-title,
 			.site-description {
 				position: absolute;
@@ -33,7 +40,7 @@
 <link rel="icon" href="https://www.mmi-sc.co.jp/wp-content/uploads/2021/07/cropped-icon-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="https://www.mmi-sc.co.jp/wp-content/uploads/2021/07/cropped-icon-180x180.png">
 <meta name="msapplication-TileImage" content="https://www.mmi-sc.co.jp/wp-content/uploads/2021/07/cropped-icon-270x270.png">
-<link rel="stylesheet" type="text/css" href="https://www.mmi-sc.co.jp/wp-content/themes/mmi/css/style.css?210817-0607">
+<link rel="stylesheet" type="text/css" href="https://www.mmi-sc.co.jp/wp-content/themes/mmi/css/style.css?210816-1643">
 <script>console.log("");</script><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="https://www.mmi-sc.co.jp/wp-content/themes/mmi/css/animate.min.css">
@@ -82,8 +89,8 @@
 </script><div id="page" class="site">
 <header id="masthead" class="site-header"><div class="page-width1200 pos-re">
     <div class="site-branding">
-      <a href="https://www.mmi-sc.co.jp/" class="custom-logo-link" rel="home" aria-current="page"><img src="https://www.mmi-sc.co.jp/wp-content/uploads/2021/07/logo-n.svg" class="custom-logo" alt="株式会社マン・マシンインターフェース"></a>      <h1 class="site-title"><a href="https://www.mmi-sc.co.jp/" rel="home">
-        株式会社マン・マシンインターフェース        </a></h1>
+      <a href="https://www.mmi-sc.co.jp/" class="custom-logo-link" rel="home"><img src="https://www.mmi-sc.co.jp/wp-content/uploads/2021/07/logo-n.svg" class="custom-logo" alt="株式会社マン・マシンインターフェース"></a>      <p class="site-title"><a href="https://www.mmi-sc.co.jp/" rel="home">
+        株式会社マン・マシンインターフェース        </a></p>
             <p class="site-description">人（MAN）と機械（MACHINE）をつなぐかけはし（INTERFACE）になる。私たちは、社名の由来でもあるこの志を胸に、日々ソフトウェアの開発・改良に取り組んでいます。</p>
           </div>
     <!-- .site-branding -->
@@ -92,7 +99,7 @@
     </div>
     <nav id="navi" class="navi" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement"><div id="navi-in" class="navi-in">
         <ul class="flex jcc">
-<li id="menu-item-15" class="nav-top menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-15"><a href="https://www.mmi-sc.co.jp/" aria-current="page">トップページ</a></li>
+<li id="menu-item-15" class="nav-top menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="https://www.mmi-sc.co.jp/">トップページ</a></li>
 <li id="menu-item-88" class="nav-company menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-88">
 <a href="https://www.mmi-sc.co.jp/about">企業情報</a>
 <ul class="sub-menu">
@@ -132,14 +139,14 @@
 </li>
 <li id="menu-item-94" class="nav-jobs menu-item menu-item-type-post_type menu-item-object-page menu-item-94"><a href="https://www.mmi-sc.co.jp/recruit">採用情報</a></li>
 </ul>
-<div class="drawer-logo"><a href="https://www.mmi-sc.co.jp/" class="custom-logo-link" rel="home" aria-current="page"><img src="https://www.mmi-sc.co.jp/wp-content/uploads/2021/07/logo-n.svg" class="custom-logo" alt="株式会社マン・マシンインターフェース"></a></div>
+<div class="drawer-logo"><a href="https://www.mmi-sc.co.jp/" class="custom-logo-link" rel="home"><img src="https://www.mmi-sc.co.jp/wp-content/uploads/2021/07/logo-n.svg" class="custom-logo" alt="株式会社マン・マシンインターフェース"></a></div>
       </div>
       <!-- /#navi-in --> 
       
     </nav><!-- /Navigation --><div class="pickup-navi">
       <ul>
 <li id="menu-item-99" class="navpick-rpa menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://www.mmi-sc.co.jp/rpainfo">取扱商品紹介</a></li>
-<li id="menu-item-100" class="navpick-support menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.mmi-sc.co.jp/support">お問い合わせ</a></li>
+<li id="menu-item-100" class="navpick-support menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item menu-item-100"><a href="https://www.mmi-sc.co.jp/support" aria-current="page">お問い合わせ</a></li>
 </ul>
 </div>
     <!-- /#navi-in --> 
@@ -148,31 +155,54 @@
 </header><!-- #masthead --><div id="overlay"></div>
 
 <div id="content" class="site-content">
-<div class="first-view pos-re">
-  <div class="page-width pos-ab-c">
-    <p class="first-1 animated invisible ease-in-out" data-animate="fadeInRightSmall"><img src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/images/front-title1.svg" alt=""></p>
-    <p class="first-2 animated invisible delay-01s ease-in-out" data-animate="fadeInRightSmall"><img src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/images/front-title2.svg" alt=""></p>
-    <p class="first-3 animated invisible delay-02s ease-in-out" data-animate="fadeInRightSmall"><img src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/images/front-title3.svg" alt=""></p>
-  </div>
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main page-width"><article id="post-21" class="post-21 page type-page status-publish hentry"><header class="entry-header animated invisible" data-animate="fadeInUp"><h1 class="entry-title"><span>お問い合わせ</span></h1>                <span class="page-title-en">SUPPORT</span>
+        	</header><!-- .entry-header --><div class="entry-content">
+            
+<p>こちらは「環境活動」についてのお問い合わせフォームです。</p>
+            
+<div class="wpcf7">
+            
+<form action="confirm.php" method="post" name="form" onsubmit="return validate()">
+    
+<div class="form__wrap template02">
+<div class="form__row row-name">
+  <p class="form__label is-required"><label>お名前</label></p>
+  <p class="form__body"><input type="text" name="name" placeholder="お名前" value=""></p>
 </div>
-<div class="page-width">
-  <div class="first-catch animated invisible" data-animate="fadeInUp">
-    <p>私たちは、社名の由来でもあるこの志を胸に、<br>日々ソフトウェアの開発・改良に取り組んでいます。</p>
-  </div>
-  <div class="flex col2 sbw aic">
-    <div class="col front-box-l pos-re animated invisible" data-animate="fadeInUp">
-      <div class="pos-ab-c">
-        <h2><span>経営理念</span></h2>
-        <div class="front-box-text"> <p>わたしたちは、<br>機械に息吹を与えてお客様の活力を創造します</p>
-<p>わたしたちは、<br>幸せの環をつくり豊かな社会づくりに貢献します</p>
-<p>わたしたちは、<br>誇りと生きがいを探求して共に成長し続けます</p> </div>
+<div class="form__row row-name">
+  <p class="form__label"><label>会社名</label></p>
+  <p class="form__body"><input type="text" name="company" placeholder="会社名（任意）" value=""></p>
+</div>
+<div class="form__row row-tel">
+  <p class="form__label is-required"><label>電話番号</label></p>
+  <p class="form__body"><input type="text" name="tel" placeholder="0312345678（ハイフンなし）" value=""></p>
+</div>
+<div class="form__row row-email">
+  <p class="form__label is-required"><label>メールアドレス</label></p>
+  <p class="form__body"><input type="text" name="email" placeholder="info@example.com" value=""></p>
+</div>
+<div class="form__row row-message">
+  <p class="form__label is-required"><label>お問い合わせ内容</label></p>
+  <p class="form__body"><textarea name="content" rows="5" placeholder="お問合せ内容を入力して下さい"></textarea></p>
+</div>
+<div class="form__row row-submit">
+  <div class="submit-btn"><button type="submit">確認画面へ</button>
       </div>
     </div>
-    <div class="col front-box-r pos-re animated invisible" data-animate="fadeInUp">
-      <p class="pos-ab-c">1985年の創業以来一貫して組込みソフトウェアの開発に取り組み、様々な組込みソフトウェア開発に携わることで多くの経験とノウハウを積み重ね、同時に技術力と順応力を磨いてまいりました。私たちは機械に最高のパフォーマンスを発揮させる高効率ソフトウェア（高性能・高品質・省エネルギー・省スペース）を生み出すプロ集団であり続けるとともに、人と機械が融和する社会づくりに貢献してまいります。</p>
-    </div>
-  </div>
 </div>
+	</form>
+    
+</div>
+            
+	</div>
+<!-- .entry-content -->
+
+	</article><!-- #post-21 --></main><!-- #main -->
+</div>
+<!-- #primary -->
+
 
 	</div>
 <!-- #content -->
@@ -183,7 +213,7 @@
     <div class="footer-nav-wrap">
     <ul class="footer-nav">
 <li class="navpick-rpa menu-item menu-item-type-post_type menu-item-object-page menu-item-99"><a href="https://www.mmi-sc.co.jp/rpainfo">取扱商品紹介</a></li>
-<li class="navpick-support menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://www.mmi-sc.co.jp/support">お問い合わせ</a></li>
+<li class="navpick-support menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-21 current_page_item menu-item-100"><a href="https://www.mmi-sc.co.jp/support" aria-current="page">お問い合わせ</a></li>
      </ul>
 <ul class="footer-nav">
 <li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://www.mmi-sc.co.jp/about">企業情報</a></li>
@@ -228,10 +258,7 @@
   </div>
 </div>
 </noscript>
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/js/common.js?210817-0607"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script><script type="text/javascript" id="contact-form-7-js-extra">
-/* <![CDATA[ */
-var wpcf7 = {"api":{"root":"https:\/\/www.mmi-sc.co.jp\/wp-json\/","namespace":"contact-form-7\/v1"}};
-/* ]]> */
-</script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4.1" id="contact-form-7-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1" id="jquery-form-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-content/plugins/contact-form-7-add-confirm/includes/js/scripts.js?ver=5.1" id="contact-form-7-confirm-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/js/navigation.js?ver=20151215" id="rnworks-navigation-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/js/skip-link-focus-fix.js?ver=20151215" id="rnworks-skip-link-focus-fix-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-includes/js/wp-embed.min.js?ver=5.8" id="wp-embed-js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/js/common.js?210816-1643"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/js/navigation.js?ver=20151215" id="rnworks-navigation-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-content/themes/mmi/js/skip-link-focus-fix.js?ver=20151215" id="rnworks-skip-link-focus-fix-js"></script><script type="text/javascript" src="https://www.mmi-sc.co.jp/wp-includes/js/wp-embed.min.js?ver=5.8" id="wp-embed-js"></script>
+<script type="text/javascript" src="contact.js"></script>
 </body>
 </html>
