@@ -23,7 +23,11 @@ document.write(
 	'<ul class="footer-nav">',
 	'<li id="menu-item-487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-487"><a href="/techinfo/">技術情報</a></li>',
 	'<li id="menu-item-484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-484"><a href="/techinfo/ee-division/">組込みエンジニアリング</a></li>',
+<<<<<<< HEAD
 	'<li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="/techinfo/ss-division/">SIソリューション</a></li>',
+=======
+	'<li id="menu-item-687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-687"><a href="/techinfo/ss-division/">S.I.ソリューション</a></li>',
+>>>>>>> parent of 4f6ea2e (テストサイトのため、削除)
 	'<li id="menu-item-686" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-686"><a href="/techinfo/ps-division/">プロダクトソリューション</a></li>',
 	'     </ul>',
 	'<ul class="footer-nav footer-nav-bottom">',
