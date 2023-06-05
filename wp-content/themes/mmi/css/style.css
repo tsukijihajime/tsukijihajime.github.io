@@ -725,7 +725,7 @@ ul.sub-menu li ul.sub-menu li {
     align-items: center;
   }
   .pickup-navi ul li:first-child {
-    border-right: solid 1px #3298dc;
+    /* border-right: solid 1px #3298dc; */
   }
   #content {
     padding-top: 124px;
