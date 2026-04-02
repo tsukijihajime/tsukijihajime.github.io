@@ -1,0 +1,233 @@
+:root {
+    --bg-color: #0d1117;
+    --surface-color: #161b22;
+    --text-primary: #f0f6fc;
+    --text-secondary: #8b949e;
+    --accent-color: #58a6ff;
+    --accent-hover: #3182ce;
+    --error-color: #f85149;
+    --border-radius: 12px;
+    --font-family: 'Inter', sans-serif;
+    --transition-speed: 0.3s;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: var(--font-family);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 1rem;
+    overflow: hidden;
+}
+
+.app-container {
+    width: 100%;
+    max-width: 600px;
+    min-height: 500px;
+    height: 90vh;
+    max-height: 800px;
+    background: var(--surface-color);
+    border-radius: var(--border-radius);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+
+.view {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity var(--transition-speed) ease-in-out;
+}
+
+.view.active {
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 10;
+}
+
+/* Input View Styles */
+#input-view header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+#input-view h1 {
+    font-size: 2rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    background: linear-gradient(135deg, #58a6ff, #a371f7);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#input-view p {
+    color: var(--text-secondary);
+    font-size: 0.95rem;
+}
+
+.input-area {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5rem;
+}
+
+#text-input {
+    flex-grow: 1;
+    background-color: var(--bg-color);
+    border: 1px solid #30363d;
+    border-radius: var(--border-radius);
+    padding: 1rem;
+    color: var(--text-primary);
+    font-family: inherit;
+    font-size: 1rem;
+    resize: none;
+    transition: border-color var(--transition-speed);
+}
+
+#text-input:focus {
+    outline: none;
+    border-color: var(--accent-color);
+    box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.2);
+}
+
+.actions {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 1rem;
+}
+
+/* Reader View Styles */
+#reader-view {
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 4rem;
+}
+
+.reader-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+#word-display {
+    font-size: 4rem;
+    font-weight: 800;
+    text-align: center;
+    word-break: break-word;
+    min-height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+    line-height: 1.2;
+    width: 100%;
+    padding: 0 1rem;
+}
+
+/* Micro-animation for word update */
+@keyframes wordPop {
+    0% { transform: scale(0.97); opacity: 0.8; }
+    100% { transform: scale(1); opacity: 1; }
+}
+
+.word-animate {
+    animation: wordPop 0.15s ease-out forwards;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 6px;
+    background-color: #30363d;
+    border-radius: 3px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+}
+
+#progress-indicator {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, #58a6ff, #a371f7);
+    transition: width 0.2s linear;
+}
+
+/* Buttons */
+button {
+    font-family: inherit;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all var(--transition-speed);
+    padding: 0.8rem 2rem;
+}
+
+.primary-btn {
+    background-color: var(--accent-color);
+    color: #fff;
+    width: 100%;
+    max-width: 300px;
+}
+
+.primary-btn:hover {
+    background-color: var(--accent-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(88, 166, 255, 0.4);
+}
+
+.secondary-btn {
+    background-color: transparent;
+    color: var(--text-secondary);
+    border: 1px solid #30363d;
+    padding: 0.6rem 1.5rem;
+    font-size: 0.95rem;
+}
+
+.secondary-btn:hover {
+    color: var(--error-color);
+    border-color: var(--error-color);
+    background-color: rgba(248, 81, 73, 0.1);
+}
+
+/* Responsive constraints for smaller phones */
+@media (max-width: 480px) {
+    body {
+        padding: 0;
+    }
+    .app-container {
+        height: 100vh;
+        height: -webkit-fill-available;
+        border-radius: 0;
+        box-shadow: none;
+    }
+    .view {
+        padding: 1.5rem;
+    }
+    #word-display {
+        font-size: 3rem;
+    }
+}

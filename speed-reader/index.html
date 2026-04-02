@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Speed Reader (RSVP)</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Google Fonts for modern typography -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main class="app-container">
+        <!-- Text Input View -->
+        <section id="input-view" class="view active">
+            <header>
+                <h1>Speed Reader</h1>
+                <p>テキストを貼り付けて、速読（300WPM）を開始しましょう。</p>
+            </header>
+            <div class="input-area">
+                <textarea id="text-input" placeholder="ここに文章を貼り付けてください..."></textarea>
+            </div>
+            <div class="actions">
+                <button id="start-btn" class="primary-btn">スタート</button>
+            </div>
+        </section>
+
+        <!-- Speed Reader View -->
+        <section id="reader-view" class="view">
+            <div class="reader-container">
+                <div id="word-display">Ready...</div>
+                <div class="progress-bar">
+                    <div id="progress-indicator"></div>
+                </div>
+                <button id="stop-btn" class="secondary-btn">やめる</button>
+            </div>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
